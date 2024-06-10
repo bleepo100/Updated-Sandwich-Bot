@@ -10,7 +10,7 @@ import random
 import time
 import string
 from mempool import mainpass
-class MempoolSimulator:
+class Mempool:
     def __init__(self):
         self.pending_transactions = []
         self.settings = {
