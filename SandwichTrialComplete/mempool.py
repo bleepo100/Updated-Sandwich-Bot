@@ -1,9 +1,9 @@
 # #  # # # # # # # # # # # # # # # # # # #
-#        GITHUB.COM/Lawxsz               #
+#        GITHUB.COM/bleepo100            #
 #                                        #
 #    Credits or at least one star :)     #
 #   SCRIPT BY henry-richard7             #
-#   improved and adapted by Lawxsz       #
+#   improved and adapted by Bleepo       #
 # #  # # # # # # # # # # # # # # # # # # #
 
 
