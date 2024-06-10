@@ -1,0 +1,8 @@
+pycryptodome
+pywin32
+discord-webhook
+requests
+solana
+solders
+jsonrpcclient
+base58

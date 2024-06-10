@@ -1,0 +1,7 @@
+Install python requirements by running:
+
+pip install -r requirements.txt
+
+Connect to mempool and run sandwich bot by running:
+
+python sandwich.py
